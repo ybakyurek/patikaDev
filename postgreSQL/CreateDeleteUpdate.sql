@@ -71,4 +71,4 @@ SET birthday='01/01/1994'
 WHERE birthday between '01/01/1993' and '01/01/1996';
 --4
 DELETE FROM employee
-WHERE birthday between '01/01/1993' and '01/01/1996';
+WHERE birthday between '01/01/1993' and '01/01/1996'; 
